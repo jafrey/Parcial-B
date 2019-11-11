@@ -1,4 +1,4 @@
-django==1.6.5
+django==1.11.23
 mysqlclient
 django-rest-framework
 django-oauth-toolkit
