@@ -1,0 +1,4 @@
+django==1.6.5
+mysqlclient
+django-rest-framework
+django-oauth-toolkit
